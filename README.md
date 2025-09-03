@@ -40,7 +40,7 @@
 
 ---
 
-## 🌐 Conecta conmigo / Connect with me  
+## 🌐 Contactame / Contact me  
 
 <p align="center">
   <a href="https://github.com/XandorDev">
@@ -53,6 +53,15 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+
+## 📬 Contacta conmigo  
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XandorDev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)  
+[![Portfolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tuportafolio.com)  
+
 
 ---
 

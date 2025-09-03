@@ -56,6 +56,10 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=XandorDev&label=Visitas&color=blue&style=flat)
+
+---
+
 ## 🎬 Zona creativa / Fun Zone  
 
 <p align="center">

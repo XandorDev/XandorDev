@@ -1,5 +1,5 @@
 
-<h1 align="center">✨ Hola / Hello, I'm <span style="color:#00FFFB">XandorDev</span> ✨</h1>
+<h1 align="center">✨ Hello, I'm <span style="color:#00FFFB">XandorDev</span> ✨</h1>
 
 <p align="center">
   🚀 Tecnología • 🎨 Creatividad • 🌍 Aprendizaje constante
@@ -7,7 +7,7 @@
 
 ---
 
-## 🇪🇸 Sobre mí
+## Sobre mí
 - 💡 Me encanta combinar **creatividad + lógica** para crear proyectos únicos.  
 - 🌱 Siempre explorando nuevas tecnologías y frameworks.  
 - 🎯 Meta: crecer como creador y colaborar en proyectos globales.  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🇬🇧 About Me
+## About Me
 - 💡 I love mixing **creativity + logic** to build unique projects.  
 - 🌱 Always exploring new technologies and frameworks.  
 - 🎯 Goal: grow as a creator and collaborate on global projects.  
@@ -40,33 +40,19 @@
 
 ---
 
-## 🌐 Contactame / Contact me  
-
-<p align="center">
-  <a href="https://github.com/XandorDev">
-    <img src="https://img.shields.io/badge/GitHub-XandorDev-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:example@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
-## 📬 Contacta conmigo  
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XandorDev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)  
-[![Portfolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tuportafolio.com)  
-
-
 ## 📬 Contacta conmigo  
 
 | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XandorDev) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com) | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario) | [![Portfolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tuportafolio.com) |
 |---|---|---|---|---|
+
+## 📬 Contacta conmigo  
+
+<div align="center">
+
+| [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XandorDev) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com) | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario) | [![Portfolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tuportafolio.com) |
+|---|---|---|---|---|
+
+</div>
 
 
 ---

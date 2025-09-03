@@ -1,7 +1,3 @@
-<!-- Banner animado -->
-<p align="center">
-  <img src="https://i.imgur.com/DPVM1UO.gif" width="100%" alt="banner"/>
-</p>
 
 <h1 align="center">✨ Hola / Hello, I'm <span style="color:#00FFFB">XandorDev</span> ✨</h1>
 
